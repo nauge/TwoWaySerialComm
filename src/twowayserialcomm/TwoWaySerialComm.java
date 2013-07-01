@@ -15,10 +15,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
-/**
- *
- * @author Joseph Rowland
- */
+
 public class TwoWaySerialComm {
 
     public TwoWaySerialComm()
